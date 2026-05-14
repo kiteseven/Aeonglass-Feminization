@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://cej457mqpahvw"
+path="res://.godot/imported/aeonglass.skel-6a1e16b795bb865cd77aa1f50d8a181a.spskel"
+
+[deps]
+
+source_file="res://animations/monsters/aeonglass/aeonglass.skel"
+dest_files=["res://.godot/imported/aeonglass.skel-6a1e16b795bb865cd77aa1f50d8a181a.spskel"]
+
+[params]
+

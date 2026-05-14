@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://bkpd26u6lapyu"
+path="res://.godot/imported/aeonglass.atlas-40e07c07be03e55a4c037b2d2ab85f92.spatlas"
+
+[deps]
+
+source_file="res://animations/monsters/aeonglass/aeonglass.atlas"
+dest_files=["res://.godot/imported/aeonglass.atlas-40e07c07be03e55a4c037b2d2ab85f92.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"
